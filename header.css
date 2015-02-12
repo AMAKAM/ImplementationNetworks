@@ -1,0 +1,62 @@
+
+	
+h1{font-size:250%;font-family:"Algerian";text-align:center;}
+
+h2{font-size:100%;font-family:"Sans Serif";text-align:center;}
+
+hr{border-style:groove;width:130px;}
+
+
+
+#Top
+{
+
+	border-style:groove;
+	background-image:url('butter.jpg');
+background-repeat:no-repeat;
+
+
+color:Black;
+	position: absolute;
+	 text-align:justify;
+width:95%;
+margin-left:15px;
+margin-right:20px;	
+height:138px;
+
+	left: 20px;
+}
+
+.vrtfg
+{
+
+  background-color:lightblue;
+  
+}
+
+
+#bottom
+{
+
+margin-top:144px;
+text-align:center;
+width:95%;
+height:120%;
+margin-left:27px;
+margin-right:20px;
+border-style:groove;
+position: absolute;
+}
+	
+
+.hrow1
+{
+border-bottom:1px;
+
+
+}
+
+
+
+exps{ overflow-y:scroll}
+

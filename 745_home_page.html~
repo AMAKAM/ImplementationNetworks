@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+<title>745_home_page</title>
+<LINK  REL="stylesheet" href="745_home_page_formatting.css">
+</head>
+
+<body>
+
+<div id=Top>
+<h1>IMPLEMENTATION OF NETWORKS</h1> 
+<h2>Group Members:Arjun Muthalagu,Varun Deep,Ashok</h2>
+</div>
+<div id=table>
+<table>
+<ul type="square">
+<tr div id=hrow-1><td><li><a href="check.txt"> Lab1 </a></li></td></tr>  <hr div id = h-line1>
+<tr div id =hrow-2><td><li> Lab2  </li></td></tr> <hr div id = h-line2> 
+<tr div id =hrow-3><td><li> Lab3  </li></td></tr> <hr div id = h-line3> 
+<tr div id =hrow-4><td><li> Lab4  </li></td></tr> <hr div id = h-line4>
+<tr div id =hrow-5><td><li> Lab5  </li></td></tr>  <hr div id=h-line5>
+<tr div id =hrow-6><td><li> Lab6  </li></td></tr>  <hr div id=h-line6>
+<tr div id =hrow-7><td><li> Lab7  </li></td></tr>  <hr div id=h-line7>
+<tr div id=hrow-8><td><li> Lab8  </li></td></tr>  <hr div id=h-line8>
+<tr div id=hrow-9><td><li> Lab9  </li></td></tr>  <hr div id=h-line9>
+<tr div id=hrow-10><td><li> Lab10 </li></td></tr>  <hr div id=h-line10>
+<tr div id=hrow-11><td><li> Lab11 </li></td></tr>  <hr div id=h-line11>
+<tr div id=hrow-12><td><li> Lab12 </li></td></tr>  <hr div id=h-line12>
+<tr div id=hrow-13><td><li> Lab13 </li></td></tr>  <hr div id=h-line13>
+<tr div id=hrow-14><td><li> Lab14 </li></td></tr>  <hr div id=h-line14>
+<tr div id=hrow-15><td><li> Lab15 </li></td></tr>  <hr div id=h-line15>
+<tr div id=hrow-16><td><li> Lab16 </li></td></tr>  <hr div id=h-line16>
+<tr div id=hrow-17><td><li> Lab17 </li></td></tr>  <hr div id=h-line17>
+<tr div id=hrow-18><td><li> Lab18 </li></td></tr>  <hr div id=h-line18>
+<tr div id=hrow-19><td><li> Lab19 </li></td></tr>  <hr div id=h-line19>
+<tr div id=hrow-20><td><li> Lab20 </li></td></tr>  <hr div id=h-line20>
+<tr div id=hrow-21><td><li> Lab21 </li></td></tr>  <hr div id=h-line21>
+</ul>
+</table>
+</div>
+<div id=display_pane>
+</div>
+
+<frameset>
+<frame src="745_home_page.html">
+</frameset>
+
+</body>
+</html>

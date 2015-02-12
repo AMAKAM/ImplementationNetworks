@@ -1,0 +1,17 @@
+
+	
+h1{font-size:250%;font-family:"Algerian";text-align:center;}
+h2{font-size:100%;font-family:"Sans Serif";text-align:center;}
+hr{border-style:groove;width:130px;}
+
+
+#Top
+{
+	border-style:groove;
+	text-align:center;
+	position: absolute;
+	width:1800px;
+	height:138px;
+	left: 20px;
+}
+	

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<head>
+
+<title>header</title>
+
+<LINK  REL="stylesheet" href="header.css">
+
+</head>
+
+<body>
+
+<div id=Top style="border:1; background-color:ThreeDLighShadow">
+
+<h1 style="margin-left:400px"> IMPLEMENTATION OF NETWORKS</h1> 
+
+<h2 style="margin-left:500px"> Group Members:Arjun Muthalagu,Varun Deep,Ashok</h2>
+
+
+</div>
+
+<div id=bottom>
+<frameset cols="30%,*">
+<frame >
+<table border="1px">
+<tr>
+<td width="400" class="vrtfg"> 
+EXPERIMENTS LIST
+<table border="1px" width="100%" >
+<tr class="hrow1"><td><li>Lab1</li></td></tr>  
+<tr class="hrow1"><td><li><a href="PDF/lab2.pdf" target="data_frame"> Lab2 </a></li></td></tr> 
+<tr class="hrow1"><td><li><a href="PDF/lab3.pdf" target="data_frame"> Lab3 </a></li></td></tr> 
+<tr class="hrow1"><td><li><a href="PDF/lab4.pdf" target="data_frame"> Lab4 </a></li></td></tr> 
+<tr class="hrow1"><td><li><a href="PDF/lab5.pdf" target="data_frame"> Lab5 </a></li></td></tr>  
+<tr class="hrow1"><td><li><a href="PDF/lab6.pdf" target="data_frame"> Lab6 </a></li></td></tr>  
+<tr class="hrow1"><td><li><a href="PDF/lab7.pdf" target="data_frame"> Lab7 </a></li></td></tr>  
+<tr class="hrow1"><td><li><a href="PDF/lab8.pdf" target="data_frame"> Lab8  </a></li></td></tr>  
+<tr class="hrow1"><td><li><a href="PDF/lab9.pdf" target="data_frame"> Lab9  </a></li></td></tr>  
+<tr class="hrow1"><td><li><a href="PDF/lab10.pdf" target="data_frame"> Lab10 </a></li></td></tr>  
+<tr class="hrow1"><td><li>Lab11:DEMONSTRATION</li></td></tr>  
+<tr class="hrow1"><td><li><a href="PDF/lab12.pdf" target="data_frame"> Lab12 </a></li></td></tr>  
+<tr class="hrow1"><td><li><a href="PDF/lab13.pdf" target="data_frame"> Lab13 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab14.pdf" target="data_frame"> Lab14 </a></li></td></tr>
+<tr class="hrow1"><td><li>EXAM</li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab16.pdf" target="data_frame"> Lab16 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab17.pdf" target="data_frame"> Lab17 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab18.pdf" target="data_frame"> Lab18 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab19.pdf" target="data_frame"> Lab19 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab20.pdf" target="data_frame"> Lab20 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab21.pdf" target="data_frame"> Lab21 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab22.pdf" target="data_frame"> Lab22 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab23.pdf" target="data_frame"> Lab23 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab24.pdf" target="data_frame"> Lab24 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab25.pdf" target="data_frame"> Lab25 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab26.pdf" target="data_frame"> Lab26 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab27.pdf" target="data_frame"> Lab27 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="PDF/lab28.pdf" target="data_frame"> Lab28 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="ZIPS/alllabs.tar.gz" target="data_frame"> GROUP6-Labs(all) </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="ZIPS/soap_python-group6.tar" target="data_frame">Lab 13 soap_python-group6 </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="ZIPS/socket_group6d.zip" target="data_frame">Lab 16 socket_group6d </a></li></td></tr>
+<tr class="hrow1"><td><li><a href="ZIPS/xmlrpc-group6.tar" target="data_frame">Lab 16 xmlrpc-group6 </a></li></td></tr>
+</table>
+</td>
+</frame>
+
+<td width="80%" border="0">
+<frame name="data_frame"  width="1040px"  height="140%" id="rightd">
+
+<img src="matrix240x320.gif" width="1040px" height="756px"/>
+</frame>
+</td>
+
+</frameset>
+</tr>
+
+</table>
+</div>
+</body>
+
+
+</html>
